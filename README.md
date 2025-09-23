@@ -4,7 +4,7 @@
 
 ## About
 
-ThinkRook-Website-test is the public repository for the ThinkRook website landing page. It includes all the HTML and frontend source code necessary to deploy the site.
+ThinkRook-Website is the public repository for the ThinkRook website landing page. It includes all the HTML and frontend source code necessary to deploy the site.
 
 
 ## Usage
@@ -15,6 +15,8 @@ ThinkRook-Website-test is the public repository for the ThinkRook website landin
 ## Technologies Used
 
 - HTML
+- CSS
+- JavaScript
 
 ## Contributing
 
